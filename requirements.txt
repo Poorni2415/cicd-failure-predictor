@@ -1,0 +1,13 @@
+pandas
+numpy
+pyspark
+xgboost
+scikit-learn
+mlflow
+great_expectations
+azure-ai-ml
+azure-identity
+streamlit
+requests
+python-dotenv
+pytest

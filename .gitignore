@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+
+# Azure / secrets
+*.pem
+*.key
+service-account.json
+.env.local
+
+# Databricks
+.databricks/
+
+# OS
+.DS_Store
+Thumbs.db
